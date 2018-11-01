@@ -3,9 +3,7 @@ import styled from 'styled-components';
 import {Box} from 'grid-styled';
 import {H2} from 'components/typography';
 
-const StyledSection = Box.extend`
-  border-bottom: 2px solid ${props => props.theme.colors.primary};
-`;
+const StyledSection = Box.extend``;
 
 export default ({children, ...otherProps}) => (
   <StyledSection is="section" mb={[2, 2, 3]} pb={[2, 2, 3]} {...otherProps}>
@@ -15,6 +13,8 @@ export default ({children, ...otherProps}) => (
 
 const StyledSectionTitle = styled(H2)`
   color: ${props => props.theme.colors.primary};
+  padding-bottom: 5px;
+  border-bottom: 2px solid ${props => props.theme.colors.primary};
 `;
 
 export const SectionTitle = props => (

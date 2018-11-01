@@ -14,26 +14,6 @@ const PostDate = styled(Text)`
 
 const BARS = ['#ebbb3b', '#e5410d', '#c51b1b', '#97143a', '#6a1842'];
 
-const HomeFeature = styled(Box)`
-  overflow: hidden;
-  min-height: 320px;
-
-  div {
-    width: 600px;
-    height: 36px;
-
-    ${BARS.map(
-      (barColor, i) => css`
-        &:nth-of-type(${i + 1}) {
-          background-color: ${barColor};
-          transform: rotate(-45deg) translateX(${25 * i + 60}px)
-            translateY(${10 * i}px);
-        }
-      `
-    )};
-  }
-`;
-
 const Index = ({data}) => {
   const {edges: posts} = data.allMarkdownRemark;
   const meta = data.site.siteMetadata;
@@ -47,10 +27,10 @@ const Index = ({data}) => {
         <Section>
           <P>
             <br />
-            This page was created for a capstone assignment for CIFS100.  
+            This page was created for a capstone assignment for CIFS100.
           </P>
           <P>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Laurel ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </P>
         </Section>
         <Section>
