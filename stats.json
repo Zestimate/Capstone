@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-52041a9b2d9ca54485e1.js",
+      "component---src-pages-index-js-52041a9b2d9ca54485e1.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---profile": [
+      "path---profile-046fa26fb2dbd913a5c3.js",
+      "path---profile-046fa26fb2dbd913a5c3.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-ab9a6faa660841744e2a.js",
+      "component---src-layouts-index-js-ab9a6faa660841744e2a.js.map"
+    ],
+    "component---src-templates-article-js": [
+      "component---src-templates-article-js-cb5a3463e9b8ca27e7a2.js",
+      "component---src-templates-article-js-cb5a3463e9b8ca27e7a2.js.map"
+    ],
+    "path---index": [
+      "path---index-760f5fcf86cb031616f8.js",
+      "path---index-760f5fcf86cb031616f8.js.map"
+    ],
+    "path---journal-the-food-lab-better-home-cooking-through-science": [
+      "path---journal-the-food-lab-better-home-cooking-through-science-dfddf564e865948ed740.js",
+      "path---journal-the-food-lab-better-home-cooking-through-science-dfddf564e865948ed740.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-8137dd91ff4f6f97e131.js",
+      "component---src-pages-404-js-8137dd91ff4f6f97e131.js.map"
+    ],
+    "path---journal-campus-link-3": [
+      "path---journal-campus-link-3-328a55b06392645de30f.js",
+      "path---journal-campus-link-3-328a55b06392645de30f.js.map"
+    ],
+    "commons": [
+      "commons-35f61958192a716f9a9d.js",
+      "commons-35f61958192a716f9a9d.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---journal-plana-planb-planc": [
+      "path---journal-plana-planb-planc-115535e724931198f76d.js",
+      "path---journal-plana-planb-planc-115535e724931198f76d.js.map"
+    ],
+    "path---journal-the-counsellor": [
+      "path---journal-the-counsellor-b342f63bc0056d9e016b.js",
+      "path---journal-the-counsellor-b342f63bc0056d9e016b.js.map"
+    ],
+    "app": [
+      "app-cfc40e0115b7bdb22a0b.js",
+      "app-cfc40e0115b7bdb22a0b.js.map"
+    ],
+    "path---journal-refocus-repurpose-realignment": [
+      "path---journal-refocus-repurpose-realignment-8ee196b374b80040b520.js",
+      "path---journal-refocus-repurpose-realignment-8ee196b374b80040b520.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-profile-js": [
+      "component---src-pages-profile-js-33d55660ee4d08ff0e8f.js",
+      "component---src-pages-profile-js-33d55660ee4d08ff0e8f.js.map"
+    ]
+  }
+}
