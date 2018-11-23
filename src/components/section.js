@@ -13,7 +13,7 @@ export default ({children, ...otherProps}) => (
 
 const StyledSectionTitle = styled(H2)`
   color: ${props => props.theme.colors.primary};
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   border-bottom: 2px solid ${props => props.theme.colors.primary};
 `;
 
