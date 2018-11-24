@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/Capstone`,
+  pathPrefix: `/capstone`,
   siteMetadata: {
     author: '---',
     title: `---`,

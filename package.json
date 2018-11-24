@@ -2,7 +2,7 @@
   "name": "Capstone",
   "description": "Source files for capstone",
   "version": "2.0.0",
-  "homepage": "https://zestimate.github.io/Capstone/",
+  "homepage": "https://zestimate.github.io/capstone/",
   "author": "---",
   "dependencies": {
     "gatsby": "~1.9.45",
