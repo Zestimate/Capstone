@@ -1,7 +1,8 @@
 {
-  "name": "---",
-  "description": "Source files for my personal site",
+  "name": "Capstone",
+  "description": "Source files for capstone",
   "version": "2.0.0",
+  "homepage": "https://zestimate.github.io/Capstone/",
   "author": "---",
   "dependencies": {
     "gatsby": "~1.9.45",
@@ -36,7 +37,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-prettier": "^2.3.1",
     "eslint-plugin-react": "^7.4.0",
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^1.2.0",
     "prettier": "^1.7.4"
   },
   "keywords": [

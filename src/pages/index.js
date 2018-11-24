@@ -30,7 +30,7 @@ const Index = ({data}) => {
             This page was created for a capstone assignment for CIFS100.
           </P>
           <P>
-            Laurel ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+           Many of these posts are within a small timeframe since high school is such a blur to me and irrelevant at this point in my life. The past year has been all about finding my place in university, and that's what my posts intend to talk about.
           </P>
         </Section>
         <Section>
