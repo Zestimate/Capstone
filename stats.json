@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---journal-reframing-commute-school": [
-      "path---journal-reframing-commute-school-0ef4b0adea172e935b9e.js",
-      "path---journal-reframing-commute-school-0ef4b0adea172e935b9e.js.map"
+      "path---journal-reframing-commute-school-78e7498ada7761265cc6.js",
+      "path---journal-reframing-commute-school-78e7498ada7761265cc6.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-9d0856f98bb98f7cc0c1.js",
@@ -25,16 +25,16 @@
       "component---src-templates-article-js-cb5a3463e9b8ca27e7a2.js.map"
     ],
     "path---index": [
-      "path---index-b5c4729ab6ce86b67876.js",
-      "path---index-b5c4729ab6ce86b67876.js.map"
+      "path---index-fe36be313d2b9ad9f5b4.js",
+      "path---index-fe36be313d2b9ad9f5b4.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-8137dd91ff4f6f97e131.js",
       "component---src-pages-404-js-8137dd91ff4f6f97e131.js.map"
     ],
     "path---journal-campus-link-3": [
-      "path---journal-campus-link-3-13729b2683b3428cfff2.js",
-      "path---journal-campus-link-3-13729b2683b3428cfff2.js.map"
+      "path---journal-campus-link-3-8e118247234f8c601c94.js",
+      "path---journal-campus-link-3-8e118247234f8c601c94.js.map"
     ],
     "commons": [
       "commons-35f61958192a716f9a9d.js",
@@ -45,20 +45,20 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---journal-plana-planb-planc": [
-      "path---journal-plana-planb-planc-892a90a94cb8a3b2fd6b.js",
-      "path---journal-plana-planb-planc-892a90a94cb8a3b2fd6b.js.map"
+      "path---journal-plana-planb-planc-510b13f89adaadcdd07f.js",
+      "path---journal-plana-planb-planc-510b13f89adaadcdd07f.js.map"
     ],
     "path---journal-the-counsellor": [
-      "path---journal-the-counsellor-942e199e0be4a28a70a8.js",
-      "path---journal-the-counsellor-942e199e0be4a28a70a8.js.map"
+      "path---journal-the-counsellor-e8b5e5052cd51de01581.js",
+      "path---journal-the-counsellor-e8b5e5052cd51de01581.js.map"
     ],
     "app": [
-      "app-48b1f76ad5ce94eec23d.js",
-      "app-48b1f76ad5ce94eec23d.js.map"
+      "app-d78055b72b4784a6d4a4.js",
+      "app-d78055b72b4784a6d4a4.js.map"
     ],
     "path---journal-refocus-repurpose-realignment": [
-      "path---journal-refocus-repurpose-realignment-16e2703d436c709f5a08.js",
-      "path---journal-refocus-repurpose-realignment-16e2703d436c709f5a08.js.map"
+      "path---journal-refocus-repurpose-realignment-aed8b3e4f040f576ac42.js",
+      "path---journal-refocus-repurpose-realignment-aed8b3e4f040f576ac42.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
